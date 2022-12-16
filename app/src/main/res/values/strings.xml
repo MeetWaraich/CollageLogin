@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CollageLogin</string>
+    <string name="collage_login">Collage Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_lambton_collage">Welcome to Lambton Collage</string>
+    <string name="username">Username:</string>
+    <string name="username_">Username:</string>
+    <string name="password">password</string>
+    <string name="password_tv">Password:</string>
+    <string name="login_onlogin">login</string>
+    <string name="login_login">LOGIN</string>
+    <string name="enter_your_first_name">Enter your First Name</string>
+    <string name="sign_up1">SIGN UP</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="email">Email:</string>
+    <string name="enter_your_email_id">Enter Your Email Id</string>
+</resources>
